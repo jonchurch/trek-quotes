@@ -1,6 +1,6 @@
 # Random Star Trek Quotes
 
-177 quotes from across the various shows and movies, for when you feel like boldy going where none have gone before.
+### 177 quotes from across the various shows and movies, for when you feel like boldy going where none have gone before.
 
 Currently, we export a randomQuote function that will return a string with the quote on the first line, and a newline followed by attribution
 
