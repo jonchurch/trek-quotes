@@ -6,7 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+  "star trek", 
+  "trek", 
+  "quote", 
+  "random quotes"
+  ],
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/jonchurch/trek-quotes.git"
+  },
+  "bugs": {
+	  "url": "https://github.com/jonchurch/trek-quotes/issues"
+  },
   "author": "Jon Church",
   "license": "ISC"
 }
